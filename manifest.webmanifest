@@ -1,7 +1,7 @@
 {
   "name": "Card Scorekeeper",
   "short_name": "Scorekeeper",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
